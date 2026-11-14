@@ -21,3 +21,4 @@ Achievement milestone update step 22
 Achievement milestone update step 23
 Achievement milestone update step 24
 Achievement milestone update step 25
+Explicit co-author verification step 26
