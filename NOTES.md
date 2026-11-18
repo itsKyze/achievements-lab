@@ -30,3 +30,4 @@ Silver milestone step 31
 Silver milestone step 32
 Silver milestone step 33
 Silver milestone tier update step 34
+Silver milestone tier update step 35
