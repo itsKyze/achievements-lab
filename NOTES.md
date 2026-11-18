@@ -65,3 +65,4 @@ Silver milestone tier update step 66
 Silver milestone tier update step 67
 Silver milestone tier update step 68
 Silver milestone tier update step 69
+Silver milestone tier update step 70
